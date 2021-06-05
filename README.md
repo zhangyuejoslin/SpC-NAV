@@ -52,6 +52,7 @@ bash run/bt_envdrop.bash 0
 It will load the pre-trained agent and run back translation with environmental dropout.
 
 ### Spatial Configuration, Motion Indicator, Landmark Features
+Modify the parameters in param.py to the corresponding path, and the following link is the corresponding features.
 https://drive.google.com/file/d/1Mf2yiP4mdTUwSn6r9aNiCjcsqLsoYRHM/view?usp=sharing
 
 

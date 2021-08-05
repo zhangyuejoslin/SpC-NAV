@@ -1,5 +1,6 @@
 # Code and Data for Paper "Towards Navigation by Reasoning over Spatial Configurations" 
-Our paper is accepted in SpLU workshop of ACL2021.
+Our paper is accepted in SpLU workshop of ACL2021.\\
+paper:
 https://aclanthology.org/2021.splurobonlp-1.5/
 
 ## Environment Installation
